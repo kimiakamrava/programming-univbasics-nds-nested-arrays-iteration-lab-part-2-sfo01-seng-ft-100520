@@ -1,10 +1,10 @@
-def find_min_in_nested_arrays(Array)
+def find_min_in_nested_arrays(array)
   
   count = 0
 results_array = [] 
 
-while count < find_min_in_nested_arrays(array_1).length do
-  results_array << find_min_in_nested_arrays(array_1)[count].min
+while count < array_1.min do
+  results_array << 
   count += 1
 end
 
