@@ -8,4 +8,5 @@ while count < array.length do
   count += 1
 end
 
+p results_array
 end 
