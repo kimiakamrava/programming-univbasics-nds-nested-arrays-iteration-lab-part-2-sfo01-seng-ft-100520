@@ -9,7 +9,7 @@ inner_count = 0
   count += 1
 end
 
-puts results_array
+p results_array
 
 
 end
