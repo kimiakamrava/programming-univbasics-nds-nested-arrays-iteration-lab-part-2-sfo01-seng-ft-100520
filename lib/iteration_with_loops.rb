@@ -12,4 +12,4 @@ while count < find_min_in_nested_arrays(array_1).length do
   count += 1
 end
 
-p results_array
+end 
